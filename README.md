@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mahantesha.bv1999@gmail.com**
 
-- 📄 Resume [https://bit.ly/mant3shresume](https://bit.ly/mant3shresume)
+- 📄 Resume <a href="https://bit.ly/mant3shresume">Resume</a>
 
 - ⚡ Fun fact **I am a Division level Cricket Player**
 
