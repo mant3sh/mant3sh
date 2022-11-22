@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mant3sh&show_icons=true&locale=en&layout=compact" alt="mant3sh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mant3sh&show_icons=true&locale=en" alt="mant3sh" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mant3sh&show_icons=true&locale=en" alt="mant3sh" /></p>
