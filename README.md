@@ -12,7 +12,7 @@
 
 - 📄 Resume <a href="https://bit.ly/mant3shresume">Resume</a>
 
-- ⚡ Fun fact **I am a Division level Cricket Player**
+- ⚡ Fun fact **I am a Division level Cricket player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
