@@ -35,7 +35,7 @@
  </tr>
  <tr>
   <td>
-    <img width=400 height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mant3sh&layout=compact&hide_border=false&&show_icons=true&&theme=algolia">
+    <img width=400 height=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=mant3sh&layout=compact&hide_border=false&&show_icons=true&&theme=algolia">
   </td>
  </tr>
  
