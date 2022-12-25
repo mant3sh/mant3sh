@@ -1,6 +1,6 @@
 
 ![MasterHead](https://github.com/mant3sh/mant3sh/blob/main/images/cover.jpg)
-<h1 align="center">Hi 👋, I'm Mahantesha</h1>
+<h1 align="center">Hi , I'm Mahantesha</h1>
 <h3 align="center">An aspiring frontend developer from India</h3>
 <img align="right" alt="Coding" width="380" src="https://github.com/mant3sh/mant3sh/blob/main/images/coder.gif">
 
