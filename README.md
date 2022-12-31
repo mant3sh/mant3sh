@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mant3sh" target="blank"><img src="https://img.shields.io/twitter/follow/mant3sh?logo=twitter&style=for-the-badge" alt="mant3sh" /></a> </p>
 
-- 🌱 I’m currently learning **Node js , Reat js**
+
 
 - 📫 How to reach me **mahantesha.bv1999@gmail.com**
 
