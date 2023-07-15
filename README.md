@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mahantesha.bv1999@gmail.com**
 
-- 📄 Resume <a href="https://bit.ly/mant3shresume">Resume</a>
+
 
 
 
